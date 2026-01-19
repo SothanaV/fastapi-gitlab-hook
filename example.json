@@ -1,0 +1,102 @@
+{
+  "object_kind": "push",
+  "event_name": "push",
+  "before": "617d5f21077a4d1a81c3d75762eb9bd366c4e262",
+  "after": "2494b84b99e3c2eff68d456b039699b68294b823",
+  "ref": "refs/heads/development",
+  "ref_protected": false,
+  "checkout_sha": "2494b84b99e3c2eff68d456b039699b68294b823",
+  "message": null,
+  "user_id": 2453767,
+  "user_name": "SothanaV",
+  "user_username": "SothanaV",
+  "user_email": "nai6320@gmail.com",
+  "user_avatar": "https://gitlab.com/uploads/-/system/user/avatar/2453767/avatar.png",
+  "project_id": 45518894,
+  "project": {
+    "id": 45518894,
+    "name": "68-de-data-pipeline",
+    "description": "",
+    "web_url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:storemesh/big-project/DE/de-data-pipeline.git",
+    "git_http_url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline.git",
+    "namespace": "DE",
+    "visibility_level": 0,
+    "path_with_namespace": "storemesh/big-project/DE/de-data-pipeline",
+    "default_branch": "development",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline",
+    "url": "git@gitlab.com:storemesh/big-project/DE/de-data-pipeline.git",
+    "ssh_url": "git@gitlab.com:storemesh/big-project/DE/de-data-pipeline.git",
+    "http_url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline.git"
+  },
+  "commits": [
+    {
+      "id": "617d5f21077a4d1a81c3d75762eb9bd366c4e262",
+      "message": "[UPDATE] notebook\n",
+      "title": "[UPDATE] notebook",
+      "timestamp": "2023-11-09T22:16:36+07:00",
+      "url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline/-/commit/617d5f21077a4d1a81c3d75762eb9bd366c4e262",
+      "author": {
+        "name": "Your Name",
+        "email": "you@example.com"
+      },
+      "added": [
+        "experiment/bertTopic-Copy1.ipynb",
+        "experiment/bertTopic.ipynb",
+        "experiment/test-new-model.ipynb"
+      ],
+      "modified": [
+        "experiment/all-source-cluster.ipynb"
+      ],
+      "removed": []
+    },
+    {
+      "id": "519099196b9e024be36ff35efdbc0c6ffb4bf191",
+      "message": "[UPDATE] berttopic\n",
+      "title": "[UPDATE] berttopic",
+      "timestamp": "2023-12-15T14:02:29+07:00",
+      "url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline/-/commit/519099196b9e024be36ff35efdbc0c6ffb4bf191",
+      "author": {
+        "name": "Your Name",
+        "email": "you@example.com"
+      },
+      "added": [
+        "experiment/bertTopic-latest.ipynb"
+      ],
+      "modified": [],
+      "removed": []
+    },
+    {
+      "id": "2494b84b99e3c2eff68d456b039699b68294b823",
+      "message": "[UPDATE] jupyter\n",
+      "title": "[UPDATE] jupyter",
+      "timestamp": "2023-12-15T14:03:01+07:00",
+      "url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline/-/commit/2494b84b99e3c2eff68d456b039699b68294b823",
+      "author": {
+        "name": "Your Name",
+        "email": "you@example.com"
+      },
+      "added": [
+        "experiment/merge-province.ipynb"
+      ],
+      "modified": [
+        "experiment/all-source-cluster.ipynb",
+        "experiment/concat-listdatanode2datanode.ipynb"
+      ],
+      "removed": []
+    }
+  ],
+  "total_commits_count": 3,
+  "push_options": {},
+  "repository": {
+    "name": "68-de-data-pipeline",
+    "url": "git@gitlab.com:storemesh/big-project/DE/de-data-pipeline.git",
+    "description": "",
+    "homepage": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline",
+    "git_http_url": "https://gitlab.com/storemesh/big-project/DE/de-data-pipeline.git",
+    "git_ssh_url": "git@gitlab.com:storemesh/big-project/DE/de-data-pipeline.git",
+    "visibility_level": 0
+  }
+}
