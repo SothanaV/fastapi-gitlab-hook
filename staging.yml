@@ -2,6 +2,7 @@ services:
     backend:
         container_name: ${PROJECT_NAME}-backend
         build: ./backend
+        restart: always
         command: sh run-server.sh
         volumes: 
             - ./backend:/backend
